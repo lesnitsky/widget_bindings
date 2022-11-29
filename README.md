@@ -1,4 +1,4 @@
-## Widgets Binding
+## Widget Bindings
 
 A library that allows to easily bind data holders or observables to the widget tree.
 
