@@ -1,6 +1,6 @@
 name: widget_bindings
 description: A library that allows to easily bind data holders or observables to the widget tree.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/lesnitsky/widget_bindings
 
 environment:
